@@ -1,0 +1,6 @@
+Supplemental Table 6. Sampling Location Metadata,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Site_Name,Lat,Lon,Distance_km,Season,Collection_Date,Collection_Time,pH,NH3_NH4_ppm,Nitrite_ppm,Nitrate_ppm,Salinity_psu,Temp_C,Red_Algae,Zostera_green_algae
+1,Sheltered,32.24754,-116.94844,0,Summer,Jun_7_2016,05_20,7.8,0.25,0,0,1.02,16,Yes,No
+2,Minor-Outlet,32.24744,-116.94683,0.15,Summer,Jun_7_2016,06_00,8.2,0,0,0,1.02,15.5,No,Yes
+3,Major-Outlet,32.24645,-116.94424,0.3,Summer,Jun_7_2016,06_00,7.8,0,0,5,1.02,16,No,Yes
