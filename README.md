@@ -4,4 +4,4 @@ This is a microbial amplicon sequence (16S and 18S iTag) data and analyses pipel
 
 https://www.biorxiv.org/content/early/2018/05/17/324442
 
-For more information and/or recommendations in areas of improvement, contact Sabah Ul-Hasan (bysabahulhasan@gmail.com)
+For more information and/or recommendations for areas of improvement, contact Sabah Ul-Hasan (bysabahulhasan@gmail.com)
